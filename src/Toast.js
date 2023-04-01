@@ -18,6 +18,7 @@ import { SHOW_TOAST_MESSAGE } from "./ToastFile";
 const colors = {
   info: "#D1A1A1",
   success: "#163D42",
+  error: "#A52A2A",
 };
 
 const Toast = () => {
