@@ -1,6 +1,6 @@
 {
   "name": "react-native-my-custom-toast",
-  "version": "1.4.5",
+  "version": "1.4.7",
   "description": "this is custom toast",
   "main": "index.js",
   "scripts": {
